@@ -1,0 +1,7 @@
+Mean job time: 314.393402 seconds, standard deviation: 10.312410
+Mean read time: 0.509539 seconds, standard deviation: 0.033395
+Mean run time: 241.554375 seconds, standard deviation: 9.688629
+Mean write time: 72.102163 seconds, standard deviation: 3.062886
+Mean csv disk usage: 52.000000 MB, standard deviation: 0.000000
+Mean parquet disk usage: 12.314286 MB, standard deviation: 0.464231
+Mean dataframe memory usage: 171.149548 MB, standard deviation: 0.606126
